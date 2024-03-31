@@ -1,7 +1,14 @@
-# [![image](https://github.com/BrunoBuilder/customer_crud_challenge/assets/84381502/6b8cb2ad-5e4b-450b-a788-cd6c2d43a3c3)](https://devsuperior.com.br)
-# Formação Desenvolvedor Moderno
-## Módulo: Back End
-### Capítulo: API REST, camadas, CRUD, exceções, validações
+<p align="center">
+  <a href="https://devsuperior.com.br">
+    <img src="https://github.com/BrunoBuilder/customer_crud_challenge/assets/84381502/6b8cb2ad-5e4b-450b-a788-cd6c2d43a3c3" alt="DevSuperior Logo">
+  </a>
+</p>
+
+<h1 align="center">Formação Desenvolvedor Moderno</h1>
+
+<h2 align="center">Módulo: Back End</h2>
+
+<h3 align="center">Capítulo: API REST, camadas, CRUD, exceções, validações</h3>
 
 ### DESAFIO: CRUD de clientes
 
@@ -17,7 +24,9 @@ O projeto deverá estar com um ambiente de testes configurado acessando o banco 
 
 Um cliente possui nome, CPF, renda, data de nascimento, e quantidade de filhos. A especificação da entidade Client é mostrada a seguir (você deve seguir à risca os nomes de classe e atributos mostrados no diagrama):
 
-![image](https://github.com/BrunoBuilder/customer_crud_challenge/assets/84381502/95bb16db-00ba-4a5d-899a-e8e15b35e4ce)
+<p align="center">
+  <img src="https://github.com/BrunoBuilder/customer_crud_challenge/assets/84381502/95bb16db-00ba-4a5d-899a-e8e15b35e4ce" alt="Client Entity">
+</p>
 
 Seu projeto deverá fazer um seed de pelo menos 10 clientes com dados SIGNIFICATIVOS (não é para usar dados sem significado como “Nome 1”, “Nome 2”, etc.).
 
